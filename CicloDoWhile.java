@@ -6,8 +6,8 @@
 public class CicloDoWhile{
     /**
  *Clase CicloDoWhile
+*Método que sirve para imprimir en pantalla los números primos del 1 al 1000
  *@author Alcántara Estrada Kevin Isaac
- *@method main -para imprimir en pantalla los números primos del 1 al 1000
  *@param args
  */
     public static void main(String[] args){

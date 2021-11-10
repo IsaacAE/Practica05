@@ -5,8 +5,8 @@
  */
 public class CicloWhile{
     /** 
+*Método que sirve para imprimir en pantalla los números primos existentes entre 1 y 1000
  *@author Alcántara Estrada Kevin Isaac
- *@method main - sirve para imprimir en pantalla los números primos existentes entre 1 y 1000
  *@param args
  */
     public static void main(String[] args){

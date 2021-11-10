@@ -6,8 +6,8 @@ import java.util.Scanner;
  */
 public class Bisiesto{
     	    	/** 
+ *Método que sirve para decidir si un año es bisiesto o no
  *@author Alcántara Estrada Kevin Isaac
- *@method Main sirve para decidir si un año es bisiesto o no
  *@param args
  */	
     public static void main(String[] args){

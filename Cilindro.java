@@ -5,8 +5,8 @@
  */
 public class Cilindro{
     /** 
+     *Método para calcular el area y volumen de un cilindro con valores pre-establecidos
  *@author Alcantara Estrada Kevin Isaac
- *@method main para calcular el area y volumen de un cilindro con valores pre-establecidos
  *@param args
  */
     public static void main(String[] args){

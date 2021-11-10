@@ -6,9 +6,8 @@ import java.util.Scanner;
  */
 public class Condicionales{
     /**
- * Clase Condicionales 
+ * * Método que sirve para decidir cuál de dos números es mayor
  * @author Alcántara Estrada Kevin Isaac
- * @method Main sirve para decidir cuál de dos números es mayor
  * @param args
  */
     public static void main(String[] args){

@@ -9,10 +9,9 @@ import java.lang.String;
 
 public class MainCuenta{
 /**
+ *Método que presenta un ejemplo y simula la creación de una cuenta bancaria
  *@author Alcántara Estrada Kevin Isaac
  *@version 1.0
- *@method main 
- *Presenta un ejemplo y simula la creación de una cuenta bancaria
  *@param args
  */
     public static void main(String[] args){

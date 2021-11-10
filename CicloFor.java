@@ -7,8 +7,8 @@
 public class CicloFor{
     
      /**
+ * Método que sirve para imprimir los números primos existentes del 1 al 1000
  * @author Alcantara Estrada Kevin Isaac
- * @method main que sirve para imprimir los números primos existentes del 1 al 100
  * @param args 
  */
     public static void main(String[] args){

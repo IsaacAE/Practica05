@@ -5,8 +5,8 @@
  */
 public class Primitivo{
     /**
+*Método para imprimir la cantidad de bytes que ocupa cada tipo de dato primitivo en java
  *@author Alcántara Estrada Kevin Isaac
- *@method main para imprimir la cantidad de bytes que ocupa cada dato primitivo en java
  *@param args
  */
     public static void main(String[] args){
