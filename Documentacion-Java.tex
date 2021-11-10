@@ -1,0 +1,40 @@
+\documentclass[20pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper]{geometry}
+\geometry{top=1.5cm, bottom=1.0cm, left=1.5cm, right=1.5cm}
+\begin{document}
+\title{Documentación en Java}
+\date{09/11/2021}
+\maketitle
+
+\setlength{\parindent}{0px}
+
+Alcántara Estrada Kevin Isaac\\
+
+{\large Documentar el código de un programa es añadir información suficiente para explicar qué es lo que éste hace, paso por paso, para que si una persona lee nuestro código pueda enterlo y comprender cómo es su funcionamiento.}\\\\
+
+{\large En Java, se cuenta con Javadoc, que es una utilidad incluida en el JDK y nos ayuda a generar documentación automática en formato HTML a partir del código fuente Java.}\\\\
+
+{\large Para que Javadoc funcione adecuadamente, los comentarios que considerará dentro del código deben seguir ciertos lineamientos, la sintáxis que deben seguir dichos comentarios es la siguiente: }\\\\
+
+
+{\large /**}\\
+{\large * Texto con alguna descripción}\\
+{\large */}\\\\
+
+{\large En Java suelen documentarse las clases, los métodos, paquetes y atributos; para ello, se utiliza como herramienta las etiquetas de Javadoc, que nos ayuan a clasificar la información que estamos añadiendo, entre oras cosas. Éstas inician con el símbolo de @ seguido de la palabra de la etiqueta}\\\\
+
+{Algunas de éstas etiquetas son las siguientes: }\\\\
+\begin{enumerate}
+\item{\large @author Sirve para escribir el nombre (o nombres) de quien desarrolló el método o la clase.}\\\\
+\item{\large @deprecated Indica que el método o clase es obsoleto y no se recomienda su uso.}\\\\
+\item{\large @param Definición de un parámetro de un método.}\\\\
+\item{\large @return Informa sobre lo que devuelve el método.}\\\\
+\item{\large @throws Excepción lanzada por el método}\\\\
+\item{\large @version Indica la versión del método o clase}\\\\
+\item{\large @see Sirve para Asociar o hacer referencia a otra clase, método o enlace.}\\\\
+\item{\large @exception Realiza una función similar a la etiqueta @throws.}\\\\
+\item{\large @since Se indica desde qué versión existe el método o la clase.}\\\\
+  
+\end{enumerate}
+\end{document}
