@@ -13,7 +13,7 @@ public class Cuenta{
      */
     private double dineroDisponible;
 /**
- **Método que sirve para obtener el valor del atributo "titular" de un objeto de la clase Cuenta
+ *Método que sirve para obtener el valor del atributo "titular" de un objeto de la clase Cuenta
  *@author Alcántara Estrada Kevin Isaac
  *@return String titular
  */
@@ -21,7 +21,7 @@ public class Cuenta{
 	return this.titular;
     }
 /**
- **Método que sirve para modificar el valor del atributo "titular" de un objeto de la clase Cuenta
+ *Método que sirve para modificar el valor del atributo "titular" de un objeto de la clase Cuenta
  *@author Alcántara Estrada Kevin Isaac
  *@param titular nombre del titular
  */
@@ -29,7 +29,7 @@ public class Cuenta{
 	this.titular=titular;
     }
 /**
-*Método que sirve para obtener el valor del atributo "dineroDisponible" de un objeto de la clase Cuenta
+ *Método que sirve para obtener el valor del atributo "dineroDisponible" de un objeto de la clase Cuenta
  *@author Alcántara Estrada Kevin Isaac 
  *@return double dineroDisponible
  */
@@ -37,7 +37,7 @@ public class Cuenta{
 	return this.dineroDisponible;
     }
     /**
-* Método que sirve para modificar el valor del atributo "dineorDisponible" de un objeto de la clase Cuenta
+ *Método que sirve para modificar el valor del atributo "dineorDisponible" de un objeto de la clase Cuenta
  *@author Alcántara Estrada Kevin Isaac
  *@param dineroDisponible cantidad de dinero de la cuenta
  */
@@ -53,7 +53,7 @@ public class Cuenta{
 	this.dineroDisponible=5375.89;
     }
  /**
-*Crea una objeto de la clase cuenta que recibe un parámetro: el  nombre del titular
+ *Crea una objeto de la clase cuenta que recibe un parámetro: el  nombre del titular
  *@author Alcántara Estrada Kevin Isaac 
  *@param titular nombre del titular
  */
@@ -62,7 +62,7 @@ public class Cuenta{
 	this.dineroDisponible=0;
     }
 /**
- **Método que regresa el valor de los atributos del objeto de la clase cuenta junto con un mensaje de lo que se muestra en pantalla
+ *Método que regresa el valor de los atributos del objeto de la clase cuenta junto con un mensaje de lo que se muestra en pantalla
  *@author Alcántara Estrada Kevin Isaac
  *@return String
  */
