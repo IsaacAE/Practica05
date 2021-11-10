@@ -13,9 +13,8 @@ public class Cuenta{
      */
     private double dineroDisponible;
 /**
+ **Método que sirve para obtener el valor del atributo "titular" de un objeto de la clase Cuenta
  *@author Alcántara Estrada Kevin Isaac
- *@method getTitular
- *Sirve para obtener el valor del atributo "dineroDisponible" de un objeto de la clase Cuenta
  *@return String titular
  */
     public String getTitular(){

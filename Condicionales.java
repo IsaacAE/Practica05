@@ -6,7 +6,7 @@ import java.util.Scanner;
  */
 public class Condicionales{
     /**
- * * Método que sirve para decidir cuál de dos números es mayor
+ *Método que sirve para decidir cuál de dos números es mayor
  * @author Alcántara Estrada Kevin Isaac
  * @param args
  */
